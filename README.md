@@ -25,3 +25,8 @@ HW3. Security
 - create namespace
 - create Service Account
 - add Roles for acciunts
+
+HW5. Volumes, Storages, StatefulSet
+
+- create Statefulset
+- create Secret
